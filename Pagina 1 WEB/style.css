@@ -1,0 +1,52 @@
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 1em;
+}
+.tabel{
+    width: 60vw;
+    height: 60vh;
+    margin-bottom: 1em;
+}
+thead{
+    background:linear-gradient(90deg, #6b61ff, #f16053)
+}
+.profil{
+    border-radius: 30% 10% 30% 10%;
+    margin:0 10em;
+}
+html{
+    font-family: sans-serif;
+    background-color: rgb(236, 229, 229);
+    font-size: 1.2rem;
+}
+td{
+    background-color: #f211f1;
+}
+.hobby{
+    background:linear-gradient(135deg, white, lightblue);
+    padding: .2em;
+    font-size: 1.2rem;
+    border: 1px solid green;
+}
+li{
+    padding: 0 0 1em 0;
+    font-size: 1.5rem;
+    display: inline-block;
+}
+li:hover{
+    color: white;
+}
+.lnk-discipline{
+    color: #f8fbfd;
+    text-decoration: none;
+}
+.antet{
+    background:linear-gradient(90deg, gray, red);
+    margin-bottom: 1em;
+    margin-top: 1em;
+    padding: .2em 0 0 1em;
+}
+.lnk-discipline:hover{
+    color: #000000;
+}
