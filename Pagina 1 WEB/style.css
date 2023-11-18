@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+#button{
+    font-size: 2rem;
+    display: flex;
+    padding: .3em 1em .3em 1em;
+    margin: 0 0 0 40%;
+    border-radius: .5em;
+    background-color: #f04722;
+}
+#button:hover{
+    background-color: #f0afa1;
+}
+
 table, td, th{
     border: 1px solid black;
     border-collapse: collapse;
