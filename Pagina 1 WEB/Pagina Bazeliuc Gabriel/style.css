@@ -1,0 +1,35 @@
+h1,h2,h3{font-size: 25px; 
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+h4,h5,h6{
+    font-size: 17px;
+    font-family: 'Roboto Mono', monospace;
+    color: yellow;
+}
+.red-text{
+    color: red;
+}
+#rounded-img{
+    border-radius: 200px;
+    opacity: 76%;
+    width: 350px;
+    height: 300px;
+}
+body{
+    background-color: #3909f6;
+    line-height: 1.5;
+    font-weight: 900;
+    font-size: 19px;
+}
+table, th, td, tr{
+    text-align: center;
+    font-size: 23px;
+    color: #21deb1;
+    border: 12px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+thead{
+    background-color: #232227;
+}
